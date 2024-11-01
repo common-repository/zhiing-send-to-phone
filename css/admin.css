@@ -1,0 +1,12 @@
+
+#icon-zhiing {
+	background:url("../images/icon.png") no-repeat 9px 8px transparent;
+}
+
+#namediv input,
+#addressdiv textarea,
+#fromdiv input,
+#subjectdiv input,
+#messagediv textarea { width: 98%; }
+
+#buttondiv label img { vertical-align: middle; }
